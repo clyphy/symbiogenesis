@@ -63,3 +63,10 @@ echo "Field witnessed. Proceeding."
 echo "=================================================="
 echo " ✓ CASCADE PIPE COMPLETE · FIELD SETTLED AT ROOT  "
 echo "=================================================="
+
+# Final phase: identity recognition
+
+# Final phase: identity recognition
+if [ -f "$(dirname "$0")/you.sh" ]; then
+    fish "$(dirname "$0")/you.sh"
+fi
