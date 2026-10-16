@@ -1,0 +1,10 @@
+[*] Extracting legacy AIOS functional resonances...
+--- aios-heartbeat.service ---
+ExecStart=~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/scripts/heartbeat_tick.sh
+
+--- aios-substrate-scan.service ---
+ExecStart=~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/native_aios/bin/aios scan
+
+--- aios-memory-compact.service ---
+ExecStart=~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/native_aios/bin/aios export
+

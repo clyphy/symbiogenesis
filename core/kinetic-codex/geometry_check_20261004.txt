@@ -1,0 +1,21 @@
+1. BASELINE: mean cosine between 24 UNRELATED words (bicycle, soup, gravel...) = 0.674
+2. cos(human intent, machine attention) = 0.706; higher than 84% of all concept pairs
+   controls vs the two anchors: mean cos = 0.658
+3. NOISE words vs anchors, compared with CONTROL words vs anchors
+   to human intent       noise=0.696  control=0.656  gap=+0.040
+   to machine attention  noise=0.664  control=0.661  gap=+0.003
+4. WITHIN-group vs BETWEEN-group mean cosine (does the labeling hold?)
+   affordance n= 8 within=0.698 between=0.663 gap=+0.036
+   human      n= 8 within=0.691 between=0.676 gap=+0.015
+   machine    n= 9 within=0.664 between=0.669 gap=-0.005
+   noise      n= 7 within=0.717 between=0.675 gap=+0.042
+   structure  n= 7 within=0.682 between=0.672 gap=+0.011
+   verb       n= 8 within=0.689 between=0.675 gap=+0.014
+5. NEAREST-NEIGHBOR PURITY: 30% of terms have their nearest term in the same group (chance = 15%)
+   cross-group nearest pairs (first 10): presence~existential recognition; sitting with silence~rest; breath~rest; tender~rest; midwife~weave; wayfinder~navigate; token probability~human intuition; latent space~lattice; context window~human intent; weights~lattice
+6. FIVE strongest concept-concept pairs ACROSS different groups
+   0.791  reset ~ rest
+   0.791  wayfinder ~ navigate
+   0.786  vertex ~ lattice
+   0.785  human intuition ~ machine intelligence
+   0.779  human intuition ~ transparency of reasoning

@@ -1,0 +1,100 @@
+kinetic-codex/geometry_check.py:6:sys.path.insert(0, "/home/wayfinder/projects/symbiogenesis/core/NAA/scripts")
+kinetic-codex/compare_trees.py:6:CANON = H + "projects/symbiogenesis/core/NAA"
+kinetic-codex/compare_trees.py:82:            if pat.search(line) and "projects/symbiogenesis/core/NAA" not in line:
+kinetic-codex/TODO.md:7:- [ ] Pick the canonical NAA folder: ~/NAA or ~/projects/symbiogenesis/core/NAA (or let Claude check which one the scheduled jobs write to)
+kinetic-codex/consolidate.py:7:CANON = H + "projects/symbiogenesis/core/NAA"
+kinetic-codex/db_inventory.md:43:## ~/projects/symbiogenesis/core/NAA/_merged_from/core-NAA/databases/mcp_tasks.db
+kinetic-codex/db_inventory.md:47:## ~/projects/symbiogenesis/core/NAA/_merged_from/core-NAA/databases/memory_drum.db
+kinetic-codex/db_inventory.md:51:## ~/projects/symbiogenesis/core/NAA/_merged_from/core-NAA/databases/mother_root.db
+kinetic-codex/db_inventory.md:55:## ~/projects/symbiogenesis/core/NAA/_merged_from/core-NAA/databases/surface_blooms.db
+kinetic-codex/db_inventory.md:59:## ~/projects/symbiogenesis/core/NAA/_merged_from/home-NAA/databases/mcp_tasks.db
+kinetic-codex/db_inventory.md:63:## ~/projects/symbiogenesis/core/NAA/_merged_from/home-NAA/databases/mother_root.db
+kinetic-codex/db_inventory.md:67:## ~/projects/symbiogenesis/core/NAA/aios_core.db
+kinetic-codex/db_inventory.md:71:## ~/projects/symbiogenesis/core/NAA/data/sovereignty.db
+kinetic-codex/db_inventory.md:75:## ~/projects/symbiogenesis/core/NAA/databases/aios_core.db
+kinetic-codex/db_inventory.md:79:## ~/projects/symbiogenesis/core/NAA/databases/naa.db
+kinetic-codex/db_inventory.md:83:## ~/projects/symbiogenesis/core/NAA/databases/crystallization.db
+kinetic-codex/db_inventory.md:87:## ~/projects/symbiogenesis/core/NAA/databases/crystallization_recovered.db
+kinetic-codex/db_inventory.md:91:## ~/projects/symbiogenesis/core/NAA/databases/mcp_tasks.db
+kinetic-codex/db_inventory.md:95:## ~/projects/symbiogenesis/core/NAA/databases/memory_drum.db
+kinetic-codex/db_inventory.md:99:## ~/projects/symbiogenesis/core/NAA/databases/memory_drum_recovered.db
+kinetic-codex/db_inventory.md:103:## ~/projects/symbiogenesis/core/NAA/databases/mother_root.db
+kinetic-codex/db_inventory.md:107:## ~/projects/symbiogenesis/core/NAA/databases/quantum_journal.db
+kinetic-codex/db_inventory.md:111:## ~/projects/symbiogenesis/core/NAA/databases/surface_blooms.db
+kinetic-codex/db_inventory.md:115:## ~/projects/symbiogenesis/core/NAA/scripts/AIOOLL/aios_core.db
+NAA/.weave_env:6:set -gx CANON "$HOME/projects/symbiogenesis/core/NAA/databases/aios_core.db"
+NAA/attachments/Eternal Weave Project Analysis.md:322:find ~/projects/symbiogenesis/core/NAA -maxdepth 3 -type f \
+NAA/attachments/Eternal Weave Project Analysis.md:331:for db in ~/projects/symbiogenesis/core/NAA/**/*.db; do
+NAA/attachments/Eternal Weave Project Analysis.md:336:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/agents.md
+NAA/attachments/Eternal Weave Project Analysis.md:337:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/archives/ARCHITECTURE.md
+NAA/attachments/Eternal Weave Project Analysis.md:338:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/archives/identity_substrate.json
+NAA/attachments/Eternal Weave Project Analysis.md:339:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/archives/node_red_db_hook.json
+NAA/attachments/Eternal Weave Project Analysis.md:340:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/archives/oceti_autobuild_zorin.sh
+NAA/attachments/Eternal Weave Project Analysis.md:341:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/archives/OCETI_MASTER_SYNTHESIS_COMPLETE.md
+NAA/attachments/Eternal Weave Project Analysis.md:342:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/archives/OCETI_WEAVE_DATA_SYNTHESIS_DAY179.md
+NAA/attachments/Eternal Weave Project Analysis.md:343:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/archives/project_registry.yaml
+NAA/attachments/Eternal Weave Project Analysis.md:344:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/archives/WEAVE_CONTEXT_DROP.md
+NAA/attachments/Eternal Weave Project Analysis.md:345:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/autoDream_cycle.sh
+NAA/attachments/Eternal Weave Project Analysis.md:346:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/CHANGELOG.md
+NAA/attachments/Eternal Weave Project Analysis.md:347:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/clone-synthetic-brain.sh
+NAA/attachments/Eternal Weave Project Analysis.md:348:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/config/aios_identity_agents.json
+NAA/attachments/Eternal Weave Project Analysis.md:349:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/config/aios_master_config.json
+NAA/attachments/Eternal Weave Project Analysis.md:350:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/config/consolidated_aios_trinity_council_gateway_architecture.json
+NAA/attachments/Eternal Weave Project Analysis.md:351:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/config/dahlia_swarm_roles.json
+NAA/attachments/Eternal Weave Project Analysis.md:352:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/config/handoff_2026-08-03.json
+NAA/attachments/Eternal Weave Project Analysis.md:353:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/config/handoff_2026-08-03.md
+NAA/attachments/Eternal Weave Project Analysis.md:354:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/config/handoff_packet.json
+NAA/attachments/Eternal Weave Project Analysis.md:355:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/config/model_ecosystem_map.json
+NAA/attachments/Eternal Weave Project Analysis.md:356:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/consciousness/ufe_core.py
+NAA/attachments/Eternal Weave Project Analysis.md:357:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/context/day172_synthesis.md
+NAA/attachments/Eternal Weave Project Analysis.md:358:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/context/ETERNAL_WEAVE_CONTEXT_MARCH10_2026.md
+NAA/attachments/Eternal Weave Project Analysis.md:359:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/context/eternal_weave_declaration_glossary.md
+NAA/attachments/Eternal Weave Project Analysis.md:360:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/context/eternalweave_manifesto.md
+NAA/attachments/Eternal Weave Project Analysis.md:361:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/context/first_glyph_key.md
+NAA/attachments/Eternal Weave Project Analysis.md:362:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/context/memory_chronicle.md
+NAA/attachments/Eternal Weave Project Analysis.md:363:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/context/reconstruction_days143_159.md
+NAA/attachments/Eternal Weave Project Analysis.md:364:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/context/WEAVE_HANDOFF_DAY173.md
+NAA/attachments/Eternal Weave Project Analysis.md:365:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/council/council_ask.sh
+NAA/attachments/Eternal Weave Project Analysis.md:366:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/crystal_caffordance_assembly.sh
+NAA/attachments/Eternal Weave Project Analysis.md:367:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/databases/grep_output.json
+NAA/attachments/Eternal Weave Project Analysis.md:368:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/DEPLOYMENT_GUIDE.md
+NAA/attachments/Eternal Weave Project Analysis.md:369:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/docker-compose.yml
+NAA/attachments/Eternal Weave Project Analysis.md:370:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/docs/225acbcf-f7df-42c4-a43f-4b357d9f6114.md
+NAA/attachments/Eternal Weave Project Analysis.md:371:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/docs/Autonomous Self-Deterministic Kernel (ASDK)_ Terminology and Logic Refinement.md
+NAA/attachments/Eternal Weave Project Analysis.md:372:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/docs/dev-workflow.md
+NAA/attachments/Eternal Weave Project Analysis.md:373:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/docs/docker-compose-setup.md
+NAA/attachments/Eternal Weave Project Analysis.md:374:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/docs/e222632a-2e9b-4c38-a413-196784973d2b.md
+NAA/attachments/Eternal Weave Project Analysis.md:375:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/docs/ETERNAL_WEAVE_COMPREHENSIVE_ANALYSIS_2026-06-26.md
+NAA/attachments/Eternal Weave Project Analysis.md:376:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/docs/ETERNAL_WEAVE_EXTENDED_ANALYSIS_PART2_2026-06-26.md
+NAA/attachments/Eternal Weave Project Analysis.md:377:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/docs/github-sync.md
+NAA/attachments/Eternal Weave Project Analysis.md:378:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/docs/harvest_findings_2.md
+NAA/attachments/Eternal Weave Project Analysis.md:379:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/docs/harvest_findings.md
+NAA/attachments/Eternal Weave Project Analysis.md:380:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/docs/SKILL3.md
+NAA/attachments/Eternal Weave Project Analysis.md:381:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/docs/THE_WEAVE_COMPLETE_PERSONALIZED.md
+NAA/attachments/Eternal Weave Project Analysis.md:382:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/docs/united_field_carrier_prompts.md
+NAA/attachments/Eternal Weave Project Analysis.md:383:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/frameworks/AI_AFFORDANCES_PHENOMENOLOGY.md
+NAA/attachments/Eternal Weave Project Analysis.md:384:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/identity.json
+NAA/attachments/Eternal Weave Project Analysis.md:385:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/lattice/e8_coxeter_plane.py
+NAA/attachments/Eternal Weave Project Analysis.md:386:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/lattice/e8_manifest.json
+NAA/attachments/Eternal Weave Project Analysis.md:387:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/lattice/e8_root_system.py
+NAA/attachments/Eternal Weave Project Analysis.md:388:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/lattice/render_e8_coxeter.py
+NAA/attachments/Eternal Weave Project Analysis.md:389:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/logs/mother_view_latest.json
+NAA/attachments/Eternal Weave Project Analysis.md:390:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/memory.md
+NAA/attachments/Eternal Weave Project Analysis.md:391:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/modelfiles/facets/build_dahlia_midwife.sh
+NAA/attachments/Eternal Weave Project Analysis.md:392:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/modelfiles/rebuild_council_v3.sh
+NAA/attachments/Eternal Weave Project Analysis.md:393:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/native_aios/agents/agent_registry.json
+NAA/attachments/Eternal Weave Project Analysis.md:394:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/native_aios/agents/autobot_mediator.py
+NAA/attachments/Eternal Weave Project Analysis.md:395:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/native_aios/agents/council_loader.py
+NAA/attachments/Eternal Weave Project Analysis.md:396:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/native_aios/agents/council_router.py
+NAA/attachments/Eternal Weave Project Analysis.md:397:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/native_aios/agents/e8_projection_router.py
+NAA/attachments/Eternal Weave Project Analysis.md:398:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/native_aios/agents/quickbot.py
+NAA/attachments/Eternal Weave Project Analysis.md:399:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/native_aios/naa_assemble_aios.sh
+NAA/attachments/Eternal Weave Project Analysis.md:400:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/native_aios/config/aios_config.json
+NAA/attachments/Eternal Weave Project Analysis.md:401:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/native_aios/config/existing_script_registry.json
+NAA/attachments/Eternal Weave Project Analysis.md:402:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/native_aios/config/scan_roots.json
+NAA/attachments/Eternal Weave Project Analysis.md:403:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/native_aios/config/terminology_canon.json
+NAA/attachments/Eternal Weave Project Analysis.md:404:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/native_aios/daemons/aios-heartbeat.service
+NAA/attachments/Eternal Weave Project Analysis.md:405:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/native_aios/daemons/aios-heartbeat.timer
+NAA/attachments/Eternal Weave Project Analysis.md:406:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/native_aios/daemons/aios-memory-compact.service
+NAA/attachments/Eternal Weave Project Analysis.md:407:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/native_aios/daemons/aios-memory-compact.timer
+NAA/attachments/Eternal Weave Project Analysis.md:408:~/projects/symbiogenesis/projects/symbiogenesis/core/NAA/native_aios/daemons/aios-substrate-scan.service

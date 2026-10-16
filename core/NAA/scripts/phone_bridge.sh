@@ -1,0 +1,6 @@
+#!/bin/bash
+TEXT="$1"
+if [ -n "$TEXT" ]; then
+    python3 "$(dirname "$0")/../scripts/log_naa.sh" "$TEXT" 2>/dev/null || true
+    kdeconnect-cli --device-id $(kdeconnect-cli -l --id-only 2>/dev/null | head -1)         --send-notification "Bloom: ${TEXT:0:40}..." 2>/dev/null || true
+fi
