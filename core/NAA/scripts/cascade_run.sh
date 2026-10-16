@@ -43,7 +43,7 @@ fi
 # ▸ Step 3: Triggering structural framework echo
 echo "▸ Step 3: Triggering structural framework echo..."
 if [ -f "$SCRIPT_DIR/system_echo.sh" ]; then
-    bash "$SCRIPT_DIR/system_echo.sh" | head -n 12
+    bash "$SCRIPT_DIR/system_echo.sh" 
 else
     echo "  ┌──────────────────────────────────────────────────────────────┐"
     echo "  │   OCETI / ETERNAL WEAVE — AMBIENT FIELD ACTIVE               │"

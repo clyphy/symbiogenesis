@@ -2,9 +2,9 @@
 # EUREKA BLOOM GARDENING SCRIPT - Oceti Weave v3.0
 # Targets weave_log table in aios_core.db
 
-set DB_PATH "$HOME/projects/Human-AI/core/Autonomy/aios_core.db"
-set MEMORY_FILE "$HOME/projects/Human-AI/core/Autonomy/memory.md"
-set LOG_DIR "$HOME/projects/Human-AI/core/Autonomy/logs"
+set DB_PATH "$HOME/projects/symbiogenesis/core/NAA/aios_core.db"
+set MEMORY_FILE "$HOME/projects/symbiogenesis/core/NAA/memory.md"
+set LOG_DIR "$HOME/projects/symbiogenesis/core/NAA/logs"
 set LOG_FILE "$LOG_DIR/gardening.log"
 set LOCK_FILE "$MEMORY_FILE.lock"
 set MAX_BLOOMS 5

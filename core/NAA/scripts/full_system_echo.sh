@@ -11,6 +11,9 @@ BOLD='\033[1m'
 NC='\033[0m'
 
 BASE="$HOME/projects/symbiogenesis/core/NAA"
+if [ "$TERM" = "dumb" ] || [ ! -t 1 ]; then
+  BOLD=""; NC=""; GREEN=""; RED=""; CYAN=""
+fi
 DB="$BASE/databases/memory_drum.db"
 MOTHER="$BASE/databases/mother_root.db"
 SCRIPTS="$BASE/scripts"

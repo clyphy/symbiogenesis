@@ -1,6 +1,6 @@
 #!/usr/bin/env fish
 # MCP_TASKS.DB RECOVERY - Oceti Weave v3.0
-set DB "$HOME/projects/Human-AI/core/Autonomy/databases/mcp_tasks.db"
+set DB "$HOME/projects/symbiogenesis/core/NAA/databases/mcp_tasks.db"
 set BACKUP "$DB.backup.(date +%s)"
 
 echo "🔧 Attempting recovery of mcp_tasks.db"

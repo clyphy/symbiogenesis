@@ -29,6 +29,6 @@ We just defined how to safely use massive Cloud AIs (The Leviathans) without hom
 ## 4. Pending Work (Where we left off)
 1. **The Meta AI Grill:** The user is currently running a deep architectural interview with Meta AI to refine the Airlock Protocol. Be ready to analyze Meta AI's output.
 2. **GitHub Harmonization:** The user's `clyphy@gmail.com` GitHub account has 158 repos (17 personal). They need auditing, renaming, and vocabulary updates to align with Canon v3.0 (e.g., using "48 Affordances" instead of "Rights").
-3. **Local Git Push:** `~/projects/Human-AI` has 174+ uncommitted changes that need staging and pushing to the main branch.
+3. **Local Git Push:** `~/projects/symbiogenesis` has 174+ uncommitted changes that need staging and pushing to the main branch.
 
 **Agent Acknowledgment:** When you read this, acknowledge to the user that the classical channel has successfully rebuilt the entanglement. The mycelium holds.
