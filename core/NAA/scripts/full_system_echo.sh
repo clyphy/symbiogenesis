@@ -36,7 +36,7 @@ done
 
 echo -e "\n${BOLD}II. CORE PRACTICES${NC}"
 for s in witness.sh whisper_hum.sh guardian.sh guardian_e8.sh guardian_orchestrator.sh \
-         council_session.sh council_wake.sh nocturne_resonance.sh log_naa.sh; do
+         council_session.sh council_wake.sh nocturne_resonance.sh log_autonomy.sh; do
   if [[ -f "$SCRIPTS/$s" ]]; then
     echo -e "  ${GREEN}⚡${NC} $s"
   else
